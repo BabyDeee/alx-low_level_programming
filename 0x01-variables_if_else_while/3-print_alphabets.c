@@ -8,7 +8,11 @@
 
 int main(void)
 {
-	char lower_case, upper_case = 'a'; 'A';
+	char lower_case, upper_case;
+
+	lower_case = 'a';
+
+	upper_case = 'A';
 
 	for (lower_case = 'a'; lower_case <= 'z'; lower_case++)
 	{
