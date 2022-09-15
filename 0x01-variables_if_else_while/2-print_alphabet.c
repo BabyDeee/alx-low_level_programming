@@ -3,7 +3,7 @@
 /**
  * main - A program that prints the alphabet in lowercase
  *
- * Return: lways 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
