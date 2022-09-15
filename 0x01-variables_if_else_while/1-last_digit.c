@@ -25,7 +25,7 @@ n = rand() - RAND_MAX / 2;
 
 /* your code goes there */
 
-int last_digit;
+int ld;
 
 last_digit = n % 10;
 
