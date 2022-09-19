@@ -9,17 +9,17 @@ int _strlen(char *s); /* TASK 2 */
 
 void _puts(char *str); /* TASK 3 */
 
-void print_rev(char *s);
+void print_rev(char *s); /* TASK 4 */
 
-void rev_string(char *s);
+void rev_string(char *s); /* TASK 5 */
 
-void puts2(char *str);
+void puts2(char *str); /* TASK 6 */
 
-void puts_half(char *str);
+void puts_half(char *str); /* TASK 7 */
 
-void print_array(int *a, int n);
+void print_array(int *a, int n); /* TASK 8 */
 
-char *_strcpy(char *dest, char *src);
+char *_strcpy(char *dest, char *src); /* TASK 9 */
 
 
 
