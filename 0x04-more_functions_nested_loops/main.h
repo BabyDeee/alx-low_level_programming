@@ -4,6 +4,8 @@
 
 #include <stdio.h>
 
+int _putchar(char c);
+
 int _isupper(int c); /* Task 0 */
 
 int _isdigit(int c); /* Task 1 */
