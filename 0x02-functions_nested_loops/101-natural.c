@@ -8,8 +8,8 @@
 
 int main(void)
 {
-	int sum;
 	int i;
+	int sum;
 
 	sum = 0;
 
