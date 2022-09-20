@@ -11,15 +11,17 @@ int main(void)
 	int sum;
 	int i;
 
-	for (i = 0; i >= 0; i++)
+	sum = 0;
+
+	for (i = 0; i < 1024; i++)
 	{
-
-		sum = ((i % 3 == 0) + (i % 5 == 0));
-
-		if (sum < 1024)
+		if ((i % 3 == 0) || (i % 5 == 0));
 		{
-			printf("%d", sum);
+
+		sum += i;
+
 		}
+		printf("%d\n", i);
 	}
 	return (0);
 }
