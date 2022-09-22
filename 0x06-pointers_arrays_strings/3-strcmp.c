@@ -16,7 +16,7 @@ int _strcmp(char *s1, char *s2)
 	for (; s2[j]; j++)
 	if (i <= j)
 	{
-		c = i
+		c = i;
 	}
 	else
 	{
@@ -28,7 +28,7 @@ int _strcmp(char *s1, char *s2)
 	{
 		if (s1[k] == s2[k])
 		{
-			continue
+			continue;
 		}
 		else
 		{
