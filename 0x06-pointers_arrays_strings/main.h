@@ -5,4 +5,6 @@ char *_strcat(char *dest, char *src); /* TASK 0 */
 
 char *_strncat(char *dest, char *src, int n); /* TASK 1 */
 
+char *_strncpy(char *dest, char *src, int n); /* TASK 2 */
+
 #endif

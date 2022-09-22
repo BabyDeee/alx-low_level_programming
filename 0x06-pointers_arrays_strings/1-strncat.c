@@ -2,8 +2,8 @@
 
 /**
  * _strncat - concatenates two strings.
- * @dest - string destination
- * @src - string source
+ * @dest: string destination
+ * @src: string source
  * @n: the max number of nytes that the function
  * _strncat will use
  *
