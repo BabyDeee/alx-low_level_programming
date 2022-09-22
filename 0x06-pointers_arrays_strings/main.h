@@ -17,5 +17,5 @@ char *string_toupper(char *c); /* TASK 5 */
 
 char *cap_string(char *); /* TASK 6 */
 
-char *leet(char *); /* TASK 7 */
+char *leet(char *e); /* TASK 7 */
 #endif
